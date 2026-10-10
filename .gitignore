@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+server.crt
+server.key
+*.pem
+*.docx
